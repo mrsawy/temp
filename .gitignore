@@ -1,0 +1,5 @@
+.DS_Store
+food-ordering-app/node_modules
+food-ordering-app/server/node_modules
+login-register-form/node_modules
+login-register-form/server/node_modules
